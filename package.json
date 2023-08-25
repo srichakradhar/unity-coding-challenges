@@ -1,0 +1,33 @@
+{
+    "name": "me.coderin.unity-coding-challenges",
+    "version": "8.5.1",
+    "displayName": "UniCode",
+    "description": "Learn Unity with coding challenges. Take exercises and challenges based on short, fast-paced scripts.",
+    "unity": "2018.1",
+    "unityRelease": "0f2",
+    "documentationUrl": "https://developers.google.com/admob/unity",
+    "changelogUrl": "https://github.com/srichakradhar/unity-coding-challenges/releases",
+    "licensesUrl": "https://github.com/srichakradhar/unity-coding-challenges/blob/main/LICENSE",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/srichakradhar/unity-coding-challenges.git"
+    },
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/srichakradhar/unity-coding-challenges/issues"
+    },
+    "homepage": "https://github.com/srichakradhar/unity-coding-challenges#readme",
+    "keywords": [
+      "Code", "Challenges", "Unity", "Learn"
+    ],
+    "author": {
+      "name": "Srichakradhar Reddy Nagireddy"
+    },
+    "samples": [
+        {
+            "displayName": "Hello World",
+            "description": "The how-to sample - demonstrates how to use a challenge.",
+            "path": "Samples~/HelloWorld"
+        }
+    ]
+}
