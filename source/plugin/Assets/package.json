@@ -27,7 +27,7 @@
         {
             "displayName": "Hello World",
             "description": "The how-to sample - demonstrates how to use a challenge.",
-            "path": "Samples~/HelloWorld"
+            "path": "../../../Samples~/HelloWorld"
         }
     ]
 }
